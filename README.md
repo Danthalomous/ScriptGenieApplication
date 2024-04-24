@@ -1,5 +1,14 @@
 # Script Genie
 
+Outline:
+- [Introduction](#Introduction)
+- [Requirements](#Requirements)
+- [Technologies Used](#Technologies-Used)
+- [New Technologies](#New-Technologies)
+- [Technical Approach](#Technical-Approach)
+- [Risks and Challenges](#Risks-and-Challenges)
+- [Outstanding Issues](#Outstanding-Issues)
+
 ## Introduction
 Sports announcers have to spend hours of work to prep an outline of events, or script, for their upcoming sports event. This process is usually quite tedious and repettive with similar things being done or said with slight changes. Script Genie seeks to solve this issue by providing a web application to streamline the process of making these scripts and downloading a pre-formatted script right to a user's device!
 
@@ -38,7 +47,7 @@ Sports announcers have to spend hours of work to prep an outline of events, or s
 ## Technical Approach
 - **Design Diagrams**:
     - The logical diagram for this site highlights the different classes and components that were going to be needed to be crafted in order for this full stack project to come to life.
-INSERT PICTURE HERE
+![Logical Diagram for Script Genie](/pictures/CST451_LogicalDiagram_DanielThompson)
     - The physical diagram highlights the physical technology that will be needed in order to make this project.
 INSERT PICTURE HERE
     - The wireframe for the site showcases a rough skeleton of the site and how it will work together.
