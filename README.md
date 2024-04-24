@@ -1,4 +1,5 @@
 # Script Genie
+![Screen Grab of the Home Page of Script Genie](/pictures/ScriptGenieHome.png)
 
 [Backend Repository](https://github.com/Danthalomous/ScriptGenie_SeniorCaptsone)
 
