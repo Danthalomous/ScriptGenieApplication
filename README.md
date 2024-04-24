@@ -47,7 +47,7 @@ Sports announcers have to spend hours of work to prep an outline of events, or s
 ## Technical Approach
 - **Design Diagrams**:
     - The logical diagram for this site highlights the different classes and components that were going to be needed to be crafted in order for this full stack project to come to life.
-![Logical Diagram for Script Genie](/pictures/CST451_LogicalDiagram_DanielThompson)
+![Logical Diagram for Script Genie](/pictures/CST451_LogicalDiagram_DanielThompson.png)
     - The physical diagram highlights the physical technology that will be needed in order to make this project.
 INSERT PICTURE HERE
     - The wireframe for the site showcases a rough skeleton of the site and how it will work together.
