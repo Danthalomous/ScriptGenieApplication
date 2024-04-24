@@ -49,17 +49,17 @@ Sports announcers have to spend hours of work to prep an outline of events, or s
     - The logical diagram for this site highlights the different classes and components that were going to be needed to be crafted in order for this full stack project to come to life.
 ![Logical Diagram for Script Genie](/pictures/CST451_LogicalDiagram_DanielThompson.drawio.png)
     - The physical diagram highlights the physical technology that will be needed in order to make this project.
-INSERT PICTURE HERE
+![Pysical Diagram for Script Geine](/pictures/CST451_PhysicalDiagram_DanielThompson.drawio.png)
     - The wireframe for the site showcases a rough skeleton of the site and how it will work together.
-INSERT PICTURE HERE
+![Wireframe for Script Genie](/pictures/AnnouncingScriptWebsite_CompnonetWireframe_DanielThompson.png)
     - Below is a UI storyboard that was crafted to provide a rough idea of what the goal was for what the site was to look like by the end.
-INSERT PICTURE HERE
+![UI Storyboard for Script Genie](/pictures/AnnouncingGenie_PartialStoryboard.png)
 
 - **Class Diagrams**:
     - Below is the Database Schema showcasing the small and simple design of the database.
- INSERT PICTURE HERE
+![Database Schema for Script Genie](/pictures/AnnouncingScriptWebsite_DatabaseSchema.png)
     - Below is the UML diagram for the entire backend REST API developed in .NET
-INSERT PICTURE HERE
+![UML Diagram for Script Genie](/pictures/CST451_UMLDiagram_DanielThompson.drawio.png)
 
 ## Risks and Challenges
 - **Risks**:
