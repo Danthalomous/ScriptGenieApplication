@@ -1,5 +1,8 @@
 # Script Genie
 
+[Backend Repository](https://github.com/danthalomous/ScriptGenie_SeniorCapstone)
+[Frontend Repository](https://github.com/danthalomous/ScriptGenie)
+
 Outline:
 - [Introduction](#Introduction)
 - [Requirements](#Requirements)
