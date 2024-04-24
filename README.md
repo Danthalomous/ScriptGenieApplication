@@ -81,3 +81,5 @@ Sports announcers have to spend hours of work to prep an outline of events, or s
 - **Current Issues**:
     - The script is not fully formatted when downloaded, this needs the hands of someone actually in the industry to complete.
     - The site does have some security vulnerabilities should it be deployed.
+
+[Back to Top](#Script-Genie)
